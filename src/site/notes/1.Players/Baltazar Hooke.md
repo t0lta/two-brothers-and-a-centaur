@@ -32,7 +32,6 @@ Raised in the court. is nobility and second in line for the throne
 - 
 ## Enemies
 
-The Temple of Sune is pissed at Chance as he stole a particularly "holy" chalice from a temple.
 
 ## Items
 Has the [[2.Mechanics/Items/Card of the Vizer\|Card of the Vizer]]. 
