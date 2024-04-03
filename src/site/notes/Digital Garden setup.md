@@ -9,3 +9,4 @@ PCs
 
 NPCs
 [[2.Mechanics/Major NPCs/Galateya\|Galateya]]
+
