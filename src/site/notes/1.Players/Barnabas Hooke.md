@@ -33,5 +33,3 @@ Has the [[dragon sword\|dragon sword]]. Claims to have been gifted it, but stole
 Won the [[compendium/items/wand-of-smiles-xge\|Wand of Smiles]] from a talent show in [[West Lake\|West Lake]].
 
 ## Enemies
-
-The Temple of Sune is pissed at Chance as he stole a particularly "holy" chalice from a temple.
