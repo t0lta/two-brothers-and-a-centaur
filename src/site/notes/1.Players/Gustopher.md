@@ -13,7 +13,7 @@ Centaur of the court of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Ba
 Left a life of jousting as an impostor man to serve the king.
 Took an oath as a [[compendium/classes/paladin-oath-of-the-crown-scag\|Oath of the Crown]] [[compendium/tables/paladin-ggr\|Paladin]].
 Has two sons, one is secretly [[2.Mechanics/Deities/Gosh\|Gosh]] a new god.
-Has mighty hooves from which he smit
+Has mighty hooves from which he smites
 
 
 
