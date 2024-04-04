@@ -4,9 +4,9 @@
 
 # Baltazar Hooke
 
-| Image | Char Name                | Player Name | Class                           | Race  | Level |
-| ----- | ------------------------ | ----------- | ------------------------------- | ----- | ----- |
-|       | Baltazar Hooke, aka Balt | Sam H       | 11 Fighter Champion / 1 warlock | Human | 12    |
+| Char Name                | Player Name | Class                           | Race  | Level |
+| ------------------------ | ----------- | ------------------------------- | ----- | ----- |
+| Baltazar Hooke, aka Balt | Sam H       | 11 Fighter Champion / 1 warlock | Human | 12    |
 
 ## Backstory
 Brother of [[1.Players/Barnabas Hooke\|Barnabas Hooke]]. Son of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Bartholomew Hooke]]. 
@@ -30,10 +30,12 @@ Raised in the court. is nobility and second in line for the throne
 ### Flaws
 
 - 
-## Enemies
-
+## Connections
+Is put off by [[2.Mechanics/Major NPCs/Whispered Court/34b\|34b]]'s direct manner
 
 ## Items
 Has the [[2.Mechanics/Items/Card of the Vizer\|Card of the Vizer]]. 
+Has 10,000g in gems, much of it stolen by [[2.Mechanics/Major NPCs/Malia\|Malia]] from the royal treasury years ago
+has the [[2.Mechanics/Items/Book of Vile Necromancy\|Book of Vile Necromancy]]
 
 
