@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/1-players/barnabas-hooke/"}
 ---
 
+![tout.jpg.webp](/img/user/tout.jpg.webp)
 # Barnabas Hooke
 
 | Char Name                        | Player Name | Class                | Race               | Level |
