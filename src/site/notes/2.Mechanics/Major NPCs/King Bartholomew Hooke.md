@@ -10,7 +10,8 @@ Father of [[[Barnabas Hooke\|[Barnabas Hooke]]] and [[1.Players/Baltazar Hooke\|
 
 ## Backstory
 Father of [[1.Players/Barnabas Hooke\|Barnabas Hooke]] and [[1.Players/Baltazar Hooke\|Baltazar Hooke]]. 
-%% Was raised among giants as a youth. Sent Barnabas away knowing that 
+
+
 
 ## Characteristics
 
