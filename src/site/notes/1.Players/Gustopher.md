@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/1-players/gustopher/"}
 ---
 
-aka GooGoo laMayo
+![Unknown.jpg](/img/user/Unknown.jpg)
 
-| Name            | Player | Class                     | Race    | Level |
-| --------------- | ------ | ------------------------- | ------- | ----- |
-| Gustopher Jones | Anna   | Oath of the Crown Paladin | Centaur | 12    |
+| Name                              | Player | Class                     | Race    | Level |
+| --------------------------------- | ------ | ------------------------- | ------- | ----- |
+| Gustopher Jones aka GooGoo LaMayo | Anna   | Oath of the Crown Paladin | Centaur | 12    |
 
 ## Backstory
 Centaur of the court of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Bartholomew Hooke]]. 
