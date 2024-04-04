@@ -43,3 +43,4 @@ Has a [[compendium/optional-features/returning-weapon-tce\|Returning Weapon]] of
 
 ## Enemies
 Dire Horses
+Was disturbed by [[2.Mechanics/Major NPCs/Whispered Court/Belladonna\|Belladonna]]'s knowledge about themselves
