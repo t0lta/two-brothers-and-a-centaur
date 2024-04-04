@@ -4,18 +4,19 @@
 
 # Barnabas Hooke
 
-| Iage                                                                                                        | Char Name                        | Player Name | Class                | Race               | Level |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------- | -------------------- | ------------------ | ----- |
-| ![cover hsmall](https://publish-01.obsidian.md/access/36b98e212e9d73fe1bd4813f96b0fd71/z_Assets/Chance.png) | Barnabas Hooke, aha Hysphur Caex | Jon         | Swords Bard/Hexblade | Shifter (aligator) | 12    |
+| Char Name                        | Player Name | Class                | Race               | Level |
+| -------------------------------- | ----------- | -------------------- | ------------------ | ----- |
+| Barnabas Hooke, aha Hysphur Caex | Jon         | Swords Bard/Hexblade | Shifter (aligator) | 12    |
 
 ## Backstory
-The abandoned son of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Bartholomew Hooke]], 
+The abandoned son of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Bartholomew Hooke]], grew up in [[Gyantse - Cloud Giant Enclave\|Gyantse - Cloud Giant Enclave]] under the eye of [[Lhamuhrt\|Lhamuhrt]].
+Has spent years in nature surviving, 
 
 ## Characteristics
 
 ### Personality Traits
 
-- 
+- Abrasive, fiercely independent
 
 ### Ideals
 
@@ -26,10 +27,11 @@ The abandoned son of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Barth
 - 
 
 ### Flaws
-
-- 
+- Hot tempered 
 ## Items
 Has the [[dragon sword\|dragon sword]]. Claims to have been gifted it, but stole it from a dragon hoard.
 Won the [[compendium/items/wand-of-smiles-xge\|Wand of Smiles]] from a talent show in [[West Lake\|West Lake]].
 
 ## Enemies
+
+Has tried to fight [[2.Mechanics/Major NPCs/Whispered Court/Draxas\|Draxas]] when confronted.
