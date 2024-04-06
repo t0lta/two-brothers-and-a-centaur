@@ -9,7 +9,7 @@ Father of [[[Barnabas Hooke\|[Barnabas Hooke]]] and [[1.Players/Baltazar Hooke\|
 # King Bartholomew Hooke
 
 ## Backstory
-Father of [[1.Players/Barnabas Hooke\|Barnabas Hooke]] and [[1.Players/Baltazar Hooke\|Baltazar Hooke]]. 
+Father of [[1.Players/Hysvear Caex\|Hysvear Caex]] and [[1.Players/Baltazar Hooke\|Baltazar Hooke]]. 
 
 
 
