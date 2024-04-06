@@ -10,7 +10,7 @@
 | Baltazar Hooke, aka Balt | Sam H       | 11 Fighter Champion / 1 warlock | Human | 12    |
 
 ## Backstory
-Brother of [[1.Players/Barnabas Hooke\|Barnabas Hooke]]. Son of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Bartholomew Hooke]]. 
+Brother of [[1.Players/Hysvear Caex\|Hysvear Caex]]. Son of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Bartholomew Hooke]]. 
 Raised in the court. is nobility and second in line for the throne
 
 ## Characteristics
