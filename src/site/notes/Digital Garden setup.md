@@ -4,7 +4,7 @@
 
 PCs
 [[1.Players/Baltazar Hooke\|Baltazar Hooke]]
-[[1.Players/Barnabas Hooke\|Barnabas Hooke]]
+[[1.Players/Hysvear Caex\|Hysvear Caex]]
 [[1.Players/Gustopher\|Gustopher]]
 
 NPCs
