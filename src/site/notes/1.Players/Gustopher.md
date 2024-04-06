@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-players/gustopher/"}
 ---
 
-![Unknown.jpg](/img/user/Unknown.jpg)
+![Unknown.jpg](/img/user/Z.Assets/Unknown.jpg)
 
 | Name                              | Player | Class                     | Race    | Level |
 | --------------------------------- | ------ | ------------------------- | ------- | ----- |
