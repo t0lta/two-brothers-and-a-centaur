@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-players/baltazar-hooke/"}
 ---
 
-![shorts.jpeg](/img/user/shorts.jpeg)
+![shorts.jpeg](/img/user/Z.Assets/shorts.jpeg)
 # Baltazar Hooke
 
 | Char Name                | Player Name | Class                           | Race  | Level |
