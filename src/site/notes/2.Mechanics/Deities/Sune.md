@@ -3,6 +3,7 @@
 ---
 
 God of beauty and against necromancy. Served by [[2.Mechanics/Major NPCs/Galateya\|Galateya]].
+Has a temple in [[1.The World/Marseau/Marseau\|Marseau]] called the [[1.The World/Marseau/Lover's Store\|Lover's Store]], headed by [[2.Mechanics/Minor NPCs/Lady Chanticleer\|Lady Chanticleer]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
