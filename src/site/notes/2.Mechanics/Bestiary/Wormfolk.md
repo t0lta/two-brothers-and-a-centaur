@@ -16,7 +16,10 @@ _Wormfolk are a race of sentient, burrowing creatures known for their resilience
 **Burrower:** As an action you can burrow yourself in sand, dirt, and loose earth. 
 You have a burrowing speed of 10 feet. While burrowing, you can't see aboveground, but you have tremorsense with a radius of 15 feet. 
 
-**Natural Armor:** Your tough hide provides you with a natural armor bonus. While you are not wearing armor, your Armor Class equals 12 + your Dexterity modifier.
+**Combat Tunneling:** As a reaction to receiving damage, you may partially burrow yourself under ground. This extra cover provides +2 to your AC till the start of your next turn. You may instead choose to add +5 to your AC, but your speed is rediuced to 0ft until the end of your next turn.
+You can use this feature a number of times equal to your proficiency bonus.
+
+**Natural Armor:** Your tough hide provides you with a natural armor bonus. While you are not wearing armor, your Armor Class equals 13 + your Dexterity modifier.
 
 **Tremorsense:** Accustomed to living underground, you dont need to in a limited radius around you. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
