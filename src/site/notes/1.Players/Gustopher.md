@@ -45,3 +45,8 @@ Has a [[compendium/optional-features/returning-weapon-tce\|Returning Weapon]] of
 ## Enemies
 Dire Horses
 Was disturbed by [[2.Mechanics/Major NPCs/Whispered Court/Belladonna\|Belladonna]]'s knowledge about themselves
+
+## Personal Quest
+
+Is oath-bound to protect the sons of the king, but has been taken advantage of by royalty for too long
+Has to find his two sons, and his wife
