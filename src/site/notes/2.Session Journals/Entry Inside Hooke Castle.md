@@ -5,7 +5,7 @@
 [[2.Mechanics/Minor NPCs/Lady Chanticleer\|Lady Chanticleer]] gifted the party one death ward, a scroll of death ward, and a scroll of minor hallow
 was led to the [[1.The World/Marseau/The Centuar's Silver\|The Centuar's Silver]], dogs barked, attracted the Walking Statue of Marseau
 threw a rock 200 ft with no issue, balt and Gus escaped into the Ethereal Plane
-Wand of Smiles DC increased to 14, Gus received the [[Adamantine Wall Smasher\|Adamantine Wall Smasher]]
+Wand of Smiles DC increased to 14, Gus received the [[2.Mechanics/Items/Adamantine Wall Smasher\|Adamantine Wall Smasher]]
 	Balt reinforced a Scimitar +1 with two adamantine hits
 Entered the sewer, encountered a Comet Worm
 	balt was eaten twice, cut himself out of it for the final blow
@@ -31,7 +31,7 @@ she used her Wail to reduce Caex to 0 HP
 Gus hit her with a 3rd level smite crit, dealing 78pts of radiant damage
 
 three cards from the [[2.Mechanics/Dangers/Deck of Many Things - Major Arcana\|Deck of Many Things - Major Arcana]] appeared in front of the players
-Balt drew [[The Devil\|The Devil]] card, summoning the death bond of [[compendium/bestiary/legendary-group/aurnozci-bmt\|Aurnozci]] 
-Gus drew [[Temperance\|Temperance]] card, giving a true resurrection, with a cost
+Balt drew [[2.Mechanics/Items/Card of The Devil\|Card of The Devil]] card, summoning the death bond of [[compendium/bestiary/legendary-group/aurnozci-bmt\|Aurnozci]] 
+Gus drew [[Card of Temperance\|Card of Temperance]] card, giving a true resurrection, with a cost
 
 i have temperance and emperor 
