@@ -44,3 +44,7 @@ has 7 +1 swords taken from the body of [[2.Mechanics/Minor NPCs/Lil Green\|Lil G
 has the [[2.Mechanics/Items/Book of Vile Necromancy\|Book of Vile Necromancy]]
 Has a [[blink bow\|blink bow]]
 
+## Personal Quest
+
+Is to free his father from the clutches of [[2.Mechanics/Major NPCs/Ashryn Nerinora\|Ashryn Nerinora]]
+Drawn into the destiny of the Deck and 
