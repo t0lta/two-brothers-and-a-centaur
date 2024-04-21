@@ -28,13 +28,13 @@ Lived a full life in one moment during an interrogation of [[2.Mechanics/Major N
 ### Bonds
 
 - Rides a beautiful flying steed named [[2.Mechanics/Minor NPCs/Bejik\|Bejik]].
-- Balt is worse than coddled hes dependenet
+- Balt is worse than coddled hes dependent
 - Gustopher is a mighty warrior held back by foolish devotion to the crown
 - Giants taught me nothing is more important than strength 
 - Dragon ta
 
 ### Flaws
-- Society is a sham to prop up the weap
+- Society is a sham to prop up the weak
 ## Items
 Has the [[2.Mechanics/Items/Dragon's Wrath\|Dragon's Wrath]]. Claims to have been gifted it, but stole it from a dragon hoard.
 Won the [[compendium/items/wand-of-smiles-xge\|Wand of Smiles]] from a talent show in [[West Lake\|West Lake]].
@@ -42,3 +42,10 @@ Won the [[compendium/items/wand-of-smiles-xge\|Wand of Smiles]] from a talent sh
 ## Enemies
 
 Has tried to fight [[2.Mechanics/Major NPCs/Whispered Court/Draxas\|Draxas]] when confronted.
+
+## Personal Quest
+
+Is returning to the castle to renounce his claim, overthrow the monarchy, or both
+
+
+
