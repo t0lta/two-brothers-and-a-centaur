@@ -3,4 +3,4 @@
 ---
 
 Blacksmithy run by [[2.Mechanics/Minor NPCs/Burlness Goldseam\|Burlness Goldseam]]
-crafted the [[Adamantine Wall Smasher\|Adamantine Wall Smasher]]
+crafted the [[2.Mechanics/Items/Adamantine Wall Smasher\|Adamantine Wall Smasher]]
