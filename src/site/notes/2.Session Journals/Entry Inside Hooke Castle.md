@@ -32,6 +32,6 @@ Gus hit her with a 3rd level smite crit, dealing 78pts of radiant damage
 
 three cards from the [[2.Mechanics/Dangers/Deck of Many Things - Major Arcana\|Deck of Many Things - Major Arcana]] appeared in front of the players
 Balt drew [[2.Mechanics/Items/Card of The Devil\|Card of The Devil]] card, summoning the death bond of [[compendium/bestiary/legendary-group/aurnozci-bmt\|Aurnozci]] 
-Gus drew [[Card of Temperance\|Card of Temperance]] card, giving a true resurrection, with a cost
+Gus drew [[2.Mechanics/Items/Card of Temperance\|Card of Temperance]] card, giving a true resurrection, with a cost
 
 i have temperance and emperor 
