@@ -34,4 +34,5 @@ three cards from the [[2.Mechanics/Dangers/Deck of Many Things - Major Arcana\|D
 Balt drew [[2.Mechanics/Items/Card of The Devil\|Card of The Devil]] card, summoning the death bond of [[compendium/bestiary/legendary-group/aurnozci-bmt\|Aurnozci]] 
 Gus drew [[2.Mechanics/Items/Card of Temperance\|Card of Temperance]] card, giving a true resurrection, with a cost
 
+As Caex was riding off into the sunset, Balt drew a card summoning a hostile [[compendium/spells/spirit-of-death-bmt\|Spirit of Death]]
 i have temperance and emperor 
