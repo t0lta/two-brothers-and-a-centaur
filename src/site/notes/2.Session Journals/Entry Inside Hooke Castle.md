@@ -33,6 +33,7 @@ Gus hit her with a 3rd level smite crit, dealing 78pts of radiant damage
 three cards from the [[2.Mechanics/Dangers/Deck of Many Things - Major Arcana\|Deck of Many Things - Major Arcana]] appeared in front of the players
 Balt drew [[2.Mechanics/Items/Card of The Devil\|Card of The Devil]] card, summoning the death bond of [[compendium/bestiary/legendary-group/aurnozci-bmt\|Aurnozci]] 
 Gus drew [[2.Mechanics/Items/Card of Temperance\|Card of Temperance]] card, giving a true resurrection, with a cost
+Caex refused to draw his card - as he left, the card was no longer lying on the ground
 
 As Caex was riding off into the sunset, Balt drew a card summoning a hostile [[compendium/spells/spirit-of-death-bmt\|Spirit of Death]]
 i have temperance and emperor 
