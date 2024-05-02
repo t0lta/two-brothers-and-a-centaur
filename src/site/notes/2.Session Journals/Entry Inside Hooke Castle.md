@@ -14,7 +14,7 @@ saw a vision of [[2.Mechanics/Deities/Gosh\|Gosh]] and [[2.Mechanics/Major NPCs/
 A plaque outside a door that read:
 	"my domain, flanked by celestial bodies. The light guides mortals high in the sky at the dusk of their existence. 
 	for now, I reside below."
-Party met [[2.Mechanics/Minor NPCs/Tara Melara\|Tara Melara]], she was hostage at a dinner party for one
+Party met [[2.Mechanics/Major NPCs/Tara Melara\|Tara Melara]], she was hostage at a dinner party for one
 	they decided to attack the animate Italian stove, finding a Key
 	Balt had his STR reduced by 6, Caex restored him
 Tara told them about the [[2.Mechanics/Guilds and Groups/Order of Rotor\|Order of Rotor]], invited to talk more after clearing hte castle
