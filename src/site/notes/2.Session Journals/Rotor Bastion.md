@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-session-journals/rotor-bastion/"}
+{"dg-publish":true,"permalink":"/2-session-journals/rotor-bastion/","tags":["4/27/24"]}
 ---
 
 Balt faced the spirit of death. The king announced his intention to step down, formally received Gus of his Oath.
@@ -22,11 +22,11 @@ Shows off the city from the tower - a sprawling disc floating in the astral sea,
 
 Party meets [[2.Mechanics/Major NPCs/Balarion\|Balarion]], gives them quests:
 1. Take a spell jammer to infiltrate the [[2.Mechanics/Guilds and Groups/Herald Of the Comet\|Herald Of the Comet]]. The Grim Harrow are commanding the cult from the Garden of Decay
-	1. Gus discovered a book about Og, the dead god in the Astral Sea. 
+	a. Gus discovered a book about Og, the dead god in the Astral Sea. 
 
-3. Find [[2.Mechanics/Major NPCs/Asteria\|Asteria]] to gather information about the cards.
+2. Find [[2.Mechanics/Major NPCs/Asteria\|Asteria]] to gather information about the cards.
 
-4. Pursue the dragon
+3. Pursue the dragon
 	1. [[2.Mechanics/Major NPCs/Eir-Aryz\|Eir-Aryz]], the sapphire dragon, is presumed to be in his lair near [[1.The World/Gyantse - Cloud Giant Enclave\|Gyantse - Cloud Giant Enclave]]
 	2. The Cloud Giants were working on a dragon slaying weapon, but records had no more information
 
@@ -44,7 +44,7 @@ Party goes researching at the Library Tower, meet XXX the beholder Head Libraria
 	3. His fortune of stealing the [[compendium/items/dragons-wrath-weapon-ftd\|dragons-wrath-weapon-ftd]] has reversed and drawn the attention of [[2.Mechanics/Major NPCs/Eir-Aryz\|Eir-Aryz]]
 	4. the dragons are two entities occupying the same time slices for their shared goals 
 
-Caex and Tara smoke weed, he tells story of the dragon attack on giants 
+Caex and Tara smoke space weed, he tells story of the dragon attack on giants 
 Next day, party boards the Sun Sovereign, the personal Spelljammer of Gosh
 Helmed by [[2.Mechanics/Minor NPCs/Profpic Mindspace\|Profpic Mindspace]] 
 
