@@ -7,7 +7,7 @@ A [[compendium/bestiary/fiend/marilith\|Marilith]] in disguise, she is an apotho
 She was imprisoned by brother two-head terrapin, a monk of the Four Winds.
 
 Her true form was revealed one evening and she was imprisoned for over a year in a pagoda. 
-The [[Z.Assets/Player List\|Player List]] freed her, but in her weakened state she was attacked by [[2.Mechanics/Minor NPCs/Lil Green\|Lil Green]], an evil [[compendium/bestiary/fiend/marilith\|Marilith]] in disguise. 
+The [[Player List\|Player List]] freed her, but in her weakened state she was attacked by [[2.Mechanics/Minor NPCs/Lil Green\|Lil Green]], an evil [[compendium/bestiary/fiend/marilith\|Marilith]] in disguise. 
 
 
 
