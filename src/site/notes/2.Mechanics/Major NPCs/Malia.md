@@ -12,7 +12,7 @@ Stole the [[undead construct spellbook\|undead construct spellbook]] and [[crown
 
 Hid under the name Malion.
 
-Was slain by the [[Z.Assets/Player List\|Player List]] and [[2.Mechanics/Major NPCs/Galateya\|Galateya]]. 
+Was slain by the [[Player List\|Player List]] and [[2.Mechanics/Major NPCs/Galateya\|Galateya]]. 
 
 - Cantrip: Chill Touch
 - Cantrip: Toll the Dead
