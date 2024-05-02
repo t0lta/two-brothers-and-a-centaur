@@ -2,18 +2,14 @@
 {"dg-publish":true,"permalink":"/2-mechanics/items/dragon-s-wrath/"}
 ---
 
-Obtained duringa conflit with the dragsons.
+Caex stole this weapon from the weakened [[sapphire dragon1\|sapphire dragon1]] after it's battle with the [[1.The World/Gyantse - Cloud Giant Enclave\|Gyantse - Cloud Giant Enclave]]. its a rapier variant.
 
-Secretly stolen 
+Has been reduced to slumbering by [[2.Mechanics/Bestiary/Caex's Dragon\|Caex's Dragon]].
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
-
-# Stirring Dragon's Wrath Rapier
-
-</div>
 
 
 
