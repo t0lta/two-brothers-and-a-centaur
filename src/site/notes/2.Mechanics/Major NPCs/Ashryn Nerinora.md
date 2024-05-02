@@ -3,7 +3,7 @@
 ---
 
 ![Ashryn Neirnora.png|500](/img/user/Z.Assets/Ashryn%20Neirnora.png)
-Current vizer of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Bartholomew Hooke]] and [[1.The World/Marseau/Marseau\|Marseau]].
+Defeated vizer of [[2.Mechanics/Major NPCs/King Bartholomew Hooke\|King Bartholomew Hooke]] and [[1.The World/Marseau/Marseau\|Marseau]].
 An epic battle occurred between her and [[2.Mechanics/Deities/Gosh\|Gosh]], three years ago, and she was killed. He later succame to his necrotic wounds, but then ascended to minor Godhood to become the head of the [[2.Mechanics/Guilds and Groups/Order of Rotor\|Order of Rotor]]. 
 She was resurrected by the [[2.Mechanics/Bestiary/Dark Wurm\|Dark Wurm]] as a banshee and has now taken over.
 
