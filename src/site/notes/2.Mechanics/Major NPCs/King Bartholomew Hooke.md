@@ -4,25 +4,15 @@
 
 
 ![King Bartholomew.png](/img/user/Z.Assets/King%20Bartholomew.png)
-## Backstory
-Father of [[1.Players/Hysvear Caex\|Hysvear Caex]] and [[1.Players/Baltazar Hooke\|Baltazar Hooke]]. 
+#### Appearance
+A radiant sun elf with a huge wizard hat and gold embroidered robes
+Has a pearl necklace with pearls missing - has long golden gloves and is always smoking some herbs
+#### Quote
+"What?" as she looks up from a book in a blue smoky haze
+#### RP
+always rolling a cigarette, smoking a cigarette, or lighting a candle ('my candies')
+uses every elemental spell because she can
 
-Was raised among giants as a youth. Sent Barnabas away knowing that he would never be happy amongst the court.
-Sent him to the [[1.The World/Gyantse - Cloud Giant Enclave\|Gyantse - Cloud Giant Enclave]]
-under a feeblemind spell
-He is a Path of the Giant Barbarian who grows huge when he rages.
-
-
-## Characteristics
-
-### Personality Traits
-
-
-### Ideals
-
-### Bonds
-
-### Flaws
-
-## Enemies
-
+#### Background
+Studied as a Order of Scribes wizard, loves the beauty of the celestial plane
+loves to do one 'naughty' thing every day
