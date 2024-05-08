@@ -4,7 +4,7 @@
 
 Balt faced the spirit of death. The king announced his intention to step down, formally received Gus of his Oath.
 
-Balt found [[Angels and Demons\|Angels and Demons]], a bestiary of good and bad creatures. 
+Balt found [[2.Session Journals/Angels and Demons\|Angels and Demons]], a bestiary of good and bad creatures. 
 The [[2.Mechanics/Items/Card of Wheel of Fortune\|Card of Wheel of Fortune]] presents itself to Caex, an ancient time dragon wakes up, and knows his name 
 the adult sapphire dragon [[2.Mechanics/Major NPCs/Eir-Aryz\|Eir-Aryz]] and the ancient time dragon arrive from opposite directions and redshift / blue shift into one being of immense power 
 He arrives as Caex is leaving town, and rends a huge portion of the city back into the past (beautiful elven city) and some into the future ruins and decay)
