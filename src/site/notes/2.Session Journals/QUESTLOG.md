@@ -7,7 +7,7 @@
 - [ ] Uncover the secrets of the [[2.Mechanics/Guilds and Groups/Herald Of the Comet\|Herald Of the Comet]], learning more about the [[2.Mechanics/Bestiary/Dark Wurm\|Dark Wurm]] at the [[garden of decay\|garden of decay]]
 - [ ] learn more about [[2.Mechanics/Major NPCs/The Dragons\|The Dragons]]
 - [ ] Check in on the giants and the dragon slaying lore 
-- [ ] 
+- [ ] Complete the deck!
 
 
 ## MINOR
