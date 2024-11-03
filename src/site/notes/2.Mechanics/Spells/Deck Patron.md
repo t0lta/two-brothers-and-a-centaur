@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-mechanics/spells/deck-patron/"}
 ---
 
-This patron adopted [[1.Players/Baltazar Hooke\|Baltazar Hooke]] after he interacted with the [[2.Mechanics/Items/Card of the Vizer\|Card of the Vizer]]. Seems to contain benefits and drawbacks
+This patron adopted [[1.Players/Baltazar Hooke\|Baltazar Hooke]] after he interacted with the [[2.Mechanics/Items/Cards/Card of the Vizer\|Card of the Vizer]]. Seems to contain benefits and drawbacks
 
 ## The Deck of Many Things 
 You have come into contact with a card from the Deck of Many Things, and it has affected you beyond its normal power.
