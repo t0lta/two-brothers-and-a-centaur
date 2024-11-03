@@ -16,6 +16,12 @@
 - [ ] Research about the [[2.Mechanics/Minor NPCs/Masked Az'Hule\|Masked Az'Hule]]
 - [ ] [[1.Players/Baltazar Hooke\|Baltazar Hooke]] figures his shit out, character development wise (his words, not mine)
 - [ ] Balt should continue to study [[2.Session Journals/Angels and Demons\|Angels and Demons]]
+- [ ] Increase the DC on the [[2.Mechanics/Items/Wand of Smiles\|Wand of Smiles]]
+
+## Mysterious Items
+- [ ] [[2.Mechanics/Items/Illithid brains\|Illithid brains]]
+- [ ] Slumbering [[2.Mechanics/Items/Dragon's Wrath\|Dragon's Wrath]]
+- [ ] [[2.Mechanics/Items/Book of Vile Necromancy\|Book of Vile Necromancy]]
 
 ## DONE
 - [ ] [[1.Players/Gustopher\|Gustopher]] swears a new oath
