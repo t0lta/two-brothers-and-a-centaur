@@ -35,7 +35,7 @@ Raised in the court. is nobility and second in line for the throne
 Is put off by [[2.Mechanics/Major NPCs/Whispered Court/34b\|34b]]'s direct manner
 
 ## Items
-Has the [[2.Mechanics/Items/Card of the Vizer\|Card of the Vizer]]. 
+Has the [[2.Mechanics/Items/Cards/Card of the Vizer\|Card of the Vizer]]. 
 Has the [[compendium/items/periapt-of-health\|Periapt of Health]]
 Has the [[compendium/items/ring-of-radiant-resistance\|Ring of Radiant Resistance]]
 	can be combined
