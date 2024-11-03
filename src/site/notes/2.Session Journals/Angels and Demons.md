@@ -11,6 +11,6 @@ If successful, the reader can add +1 to any check dealing with that type of crea
 
 BALTS BOOK
 Celestial +1
-Aberration +0
+Aberration +1
 Fiend +1
 
