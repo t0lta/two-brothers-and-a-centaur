@@ -5,7 +5,7 @@
 Balt faced the spirit of death. The king announced his intention to step down, formally received Gus of his Oath.
 
 Balt found [[2.Session Journals/Angels and Demons\|Angels and Demons]], a bestiary of good and bad creatures. 
-The [[2.Mechanics/Items/Card of Wheel of Fortune\|Card of Wheel of Fortune]] presents itself to Caex, an ancient time dragon wakes up, and knows his name 
+The [[2.Mechanics/Items/Cards/Card of Wheel of Fortune\|Card of Wheel of Fortune]] presents itself to Caex, an ancient time dragon wakes up, and knows his name 
 the adult sapphire dragon [[2.Mechanics/Major NPCs/Eir-Aryz\|Eir-Aryz]] and the ancient time dragon arrive from opposite directions and redshift / blue shift into one being of immense power 
 He arrives as Caex is leaving town, and rends a huge portion of the city back into the past (beautiful elven city) and some into the future ruins and decay)
 Caex's sword arm is reverted to that of a 10 year old, and his [[2.Mechanics/Items/Dragon's Wrath\|Dragon's Wrath]] is now slumbering. He has disadvantage on all melee attacks. 
@@ -40,7 +40,7 @@ Party goes researching at the Library Tower, meet XXX the beholder Head Libraria
 	1. learns of the Watchers, the Ancients, and Oath of Equity
 3. Caex researches dragons 
 	1. Learns of Time Dragons, who live outside of time 
-	2. dont usually interfere, but was drawn by the [[2.Mechanics/Items/Card of Wheel of Fortune\|Card of Wheel of Fortune]]
+	2. dont usually interfere, but was drawn by the [[2.Mechanics/Items/Cards/Card of Wheel of Fortune\|Card of Wheel of Fortune]]
 	3. His fortune of stealing the [[compendium/items/dragons-wrath-weapon-ftd\|dragons-wrath-weapon-ftd]] has reversed and drawn the attention of [[2.Mechanics/Major NPCs/Eir-Aryz\|Eir-Aryz]]
 	4. the dragons are two entities occupying the same time slices for their shared goals 
 
